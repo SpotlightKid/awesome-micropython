@@ -79,6 +79,7 @@ of required frequency response to a filter implementation.
 * [micropython-longwave](https://github.com/MattMatic/micropython-longwave) - WAV player for MicroPython board.
 * [micropython-vs1053](https://github.com/peterhinch/micropython-vs1053) - Asynchronous driver for VS1053b MP3 player.
 * [micropython-midi](https://github.com/cjbarnes18/micropython-midi) - A midi implementation example for MicroPython.
+* [micropython-stm-lib/midi](https://github.com/SpotlightKid/micropython-stm-lib) - A library for MIDI I/O via the serial or USB virtual serial interface.
 * [upy-rtttl](https://github.com/dhylands/upy-rtttl) - Python Parser for Ring Tone Text Transfer Language (RTTTL).
 * [micropython-i2s-examples](https://github.com/miketeachman/micropython-i2s-examples) - Examples for I2S support on microcontrollers that run MicroPython.
 * [micropython-osc](https://github.com/SpotlightKid/micropython-osc) - A minimal OSC client and server library for MicroPython.
